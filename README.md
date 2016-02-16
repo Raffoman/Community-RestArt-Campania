@@ -31,6 +31,8 @@ Una cartella 'prova' : cartella contenente le immagini che vengono caricate in s
 
 Alcuni script sono stati inseriti nella cartella 'js' : quì è presente lo script di facebook e quello dei voti, ma anche uno script inserito in insert_post (casella di composizione di messaggi in bbcode).
 
+Nota: la cartella js la può trovare su dropbox, così come ciò che riguarda lo script ajaxvote.
+
 Nella cartella 'css' troviamo invece : 
 
 stile_post.css :  contiene i codici relativi alle scelte di design di alcuni componenti, ad esempio i singoli post.
